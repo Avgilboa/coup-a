@@ -48,7 +48,7 @@ int main() {
 		cout << name << endl;
 	}
 
-	// prints Moshe
+	//prints Moshe
 	cout << game_1.turn() << endl;
 
 	// throws no exceptions
